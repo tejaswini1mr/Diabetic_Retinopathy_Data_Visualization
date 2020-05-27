@@ -1,6 +1,6 @@
 # Diabetic_Retinopathy_Data_Visualization
 
-# Screenshots
+# Screenshots:
 
 ![](https://github.com/suraj038/Diabetic_Retinopathy_Data_Visualization/blob/master/images/Screenshot%20(164).png)
 ![](https://github.com/suraj038/Diabetic_Retinopathy_Data_Visualization/blob/master/images/Screenshot%20(165).png)
